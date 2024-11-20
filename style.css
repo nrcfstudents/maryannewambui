@@ -58,10 +58,10 @@ body{
 
 /*Hero section*/ 
 .hero-section{
-	background: url('images/hero.jpg') no-repeat center center/cover;
+	background: url('images/Merlyn.jpg') no-repeat center center/cover;
 	text-align: center;
 	color: magenta;
-	padding: 100px 20px;
+	padding: 250px 20px;
 }
 
 .hero-content h1{
