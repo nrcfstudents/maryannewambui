@@ -1,0 +1,25 @@
+body{
+	background: gold;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+.projects-main-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-container {
+  border: solid 1px;
+  padding: 43px;
+  background: linear-gradient(45deg, #ffafbd, #ffc3a0); /* Roseanna */
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #333; /* Dark background */
+  padding: 15px 20px; /* Padding for spacing */
+  border-bottom: 2px solid #444; /* Subtle bottom border */
+}
